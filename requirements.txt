@@ -1,7 +1,9 @@
 streamlit
-google-api-python-client
 pandas
 requests
 beautifulsoup4
-lxml
+google-auth-oauthlib
+google-api-python-client
 reportlab
+icalendar
+pytz
